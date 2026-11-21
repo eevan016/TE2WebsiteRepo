@@ -4,5 +4,5 @@
 
 [TE2 Trello board](https://trello.com/b/X5tL1n0C/team-2-trello-board)
 
-[Tests](./tests/test)
+[Tests](./test)
 [Javadoc](./javadoc)
